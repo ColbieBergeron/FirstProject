@@ -1,1 +1,28 @@
-* {background-color: blue;}
+p {
+  background-color: blue;
+color: white;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+header {
+font-size: 2rem;
+}
+
+body {
+font-size: 1.5rem;
+}
+
+#destinations {
+  background-color: yellow;
+}
+
+a {
+  background-color: red;
+}
+
+.section {
+  color: purple;
+}
